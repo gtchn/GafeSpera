@@ -1,2 +1,6 @@
 # GafeSpera
 こんにちは
+
+##メンバー
+
+*testmember
